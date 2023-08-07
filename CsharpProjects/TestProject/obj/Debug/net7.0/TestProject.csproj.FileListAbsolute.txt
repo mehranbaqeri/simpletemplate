@@ -1,0 +1,15 @@
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.AssemblyReference.cache
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+I:\github\simpletemplate\simpletemplate\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll

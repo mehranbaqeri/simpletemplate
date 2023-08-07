@@ -19,21 +19,24 @@ nav ul {
     margin: 0px;
     padding: 0px;
     list-style: none;
-    display: flex;
-    justify-content: space-around;
+    margin: 100px auto;
     background-color: inherit;
     height: 50px;
-    margin: 100px auto;
+    border: 1px solid #ccc;
+    
+   
 }
 nav ul li{
     cursor: pointer;
     color: transparent;
  line-height: 50px;   
  transition: 0.3s;
+ float: left;
+ justify-content: space-around;
 }
 nav ul li:hover{
     border-bottom: 5px solid orange;
-    background-size: 50px;
+    background-size: 40px;
     background-position: 50% 0%;
 
 }
