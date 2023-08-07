@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background: url(./img/bg/bg\ 30.PNG)repeat-x;
+    height: 250px;
+    border-top: 5px solid orange;
+    background-size: 20px 155px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: inherit;
+    height: 50px;
+    margin: 100px auto;
+}
+nav ul li{
+    cursor: pointer;
+    color: transparent;
+ line-height: 50px;   
+ transition: 0.3s;
+}
+nav ul li:hover{
+    border-bottom: 5px solid orange;
+    background-size: 50px;
+    background-position: 50% 0%;
+
+}
+nav ul li.item1 {
+    background: url(./img/icon/07.png);
+    background-size:70px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+nav ul li.item2 {
+    background: url(./img/icon/05.png);
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+
+}
+
+nav ul li.item3 {
+    background: url(./img/icon/02.png);
+    background-size:70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+}
+
+nav ul li.item4 {
+    background: url(./img/icon/04.png);
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+}
