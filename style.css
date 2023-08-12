@@ -18,7 +18,7 @@ a {
 .nav{
     width: 600px;
     margin:60px auto  0px auto;
-   border: 1px solid #ccc;
+  /* border: 1px solid #ccc;*/
     height:50px;
     padding-bottom: 50px;
 
@@ -26,7 +26,7 @@ a {
 .nav .items{
     cursor:pointer;
 	float:left;
-	border:1px solid #ccc;
+	/*border:1px solid #ccc;*/
 	width:80px;
 	height:50px;
 	
