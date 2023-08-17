@@ -33,3 +33,18 @@ function CircleMaker(radius) {
 }
 const circle3 = new CircleMaker(12);
 console.log(circle3);
+//left & right arrows
+pos = 0;
+larr.onclick = function(){  
+	
+	if(pos > -1800){
+		pos = pos - 600;
+		gallery.style.left = pos + "px";
+        console.log(pos);
+	}
+	else if(pos == -1800){
+		pos = 0;
+		gallery.style.left = 0 + "px";	
+	}
+	
+};

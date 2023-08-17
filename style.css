@@ -80,7 +80,7 @@ a {
     overflow: hidden;
 }
 
-.content .container .gallery {
+.content .container #gallery {
     width: 2400px;
     height: 100%;
     position: absolute;
@@ -88,23 +88,23 @@ a {
 
 }
 
-.content .container .gallery .items {
+.content .container #gallery .items {
     width: 600px;
     height: 400px;
     float: left;
 
 }
 
-.content .container .gallery .items img {
+.content .container #gallery .items img {
     width: 100%;
     height: 100%;
 }
 
-.content .container .gallery .items:hover p {
+.content .container #gallery .items:hover p {
     top: -50px;
 }
 
-.content .container .gallery .items p {
+.content .container #gallery .items p {
     transition: 0.3s;
     text-align: center;
     background-color: rgba(240, 234, 234, 0.8);
@@ -117,7 +117,7 @@ a {
 
 }
 
-.content .container .larr {
+.content .container #larr {
     position: absolute;
     top: 40%;
     left: 0%;
@@ -126,7 +126,7 @@ a {
     height: 90px;
 }
 
-.content .container .rarr {
+.content .container #rarr {
     position: absolute;
     top: 40%;
     right: 0%;
