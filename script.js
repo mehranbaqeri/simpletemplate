@@ -36,7 +36,7 @@ console.log(circle3);
 //left & right arrows
 pos = 0;
 larr.onclick = function(){  
-	
+   
 	if(pos > -1800){
 		pos = pos - 600;
 		gallery.style.left = pos + "px";
@@ -46,5 +46,6 @@ larr.onclick = function(){
 		pos = 0;
 		gallery.style.left = 0 + "px";	
 	}
+    document.getElementById("larr").style.border-top = "2px solid #000";
 	
 };
