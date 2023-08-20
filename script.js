@@ -48,3 +48,14 @@ larr.onclick = function(){
 	}
 	
 };
+rarr.onclick=function(){
+if(pos < 0){
+		pos = pos + 600;
+		gallery.style.left = pos + "px";
+        console.log(pos);
+	}
+	else if(pos == 0){
+		pos = -1800;
+		gallery.style.left = -1800 + "px";	
+	}
+}
